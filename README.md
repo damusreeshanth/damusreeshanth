@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damusreeshanth
 - 👀 I’m interested in Sports, Coding
-- 🌱 I’m currently learning Angular, Python, React
+- 🌱 I’m currently learning Angular, Python, React, Javascript
 - 💞️ I’m looking to collaborate on Educational Learning Projects
 - 😄 Pronouns: Mr
 
